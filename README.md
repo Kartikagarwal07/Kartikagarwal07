@@ -46,7 +46,7 @@ Currently focused on strengthening my foundations in **Data Structures & Algorit
 ## 📫 Connect With Me
 
 * GitHub: **@Kartikagarwal07**
-* LinkedIn: *Coming soon*
+* LinkedIn: **www.linkedin.com/in/kartik-agarwal-010b57373/**
 
 ---
 
