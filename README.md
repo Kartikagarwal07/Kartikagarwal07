@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Kartik Agarwal 👋
 
-<!--
-**Kartikagarwal07/Kartikagarwal07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student | Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student passionate about building practical software, exploring Artificial Intelligence, and improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on strengthening my foundations in **Data Structures & Algorithms, Java, Python, AI/ML, and Backend Development**.
+
+---
+
+## 🚀 What I'm Working On
+
+* 🤖 **ASCENT** — Exploring Agentic AI and Autonomous Systems
+* 📅 **CampusFree** — Building a smart timetable synchronization platform
+* 💻 Practicing **Data Structures & Algorithms**
+* 🌱 Learning more about **AI/ML and Backend Development**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+`Java` `Python` `C++` `SQL` `HTML`
+
+**Tools & Technologies**
+
+`Git` `GitHub` `VS Code` `MySQL`
+
+**Currently Exploring**
+
+`Machine Learning` `Agentic AI` `Backend Development`
+
+---
+
+## 🎯 Current Goals
+
+* Build useful real-world projects
+* Strengthen DSA and problem-solving
+* Contribute to open-source projects
+* Explore AI-powered applications
+* Continuously improve as a software developer
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: **@Kartikagarwal07**
+* LinkedIn: *Coming soon*
+
+---
+
+> **Build. Learn. Improve. Repeat.**
