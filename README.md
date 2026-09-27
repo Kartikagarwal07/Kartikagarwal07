@@ -1,15 +1,6 @@
-<!-- 
-For the animated banner:
-1. Create a folder named "assets" in your profile repository
-2. Add your Minecraft-style / pixel-art GIF as:
-   assets/minecraft-banner.gif
-
-If you don't have the GIF yet, you can keep this line and add it later.
--->
-
 <div align="center">
 
-<img src="./assets/minecraft-banner.gif" alt="Minecraft-style coding banner" width="100%" />
+<img src="./minecraft-banner.png" alt="Minecraft coding banner" width="100%" />
 
 # Hi 👋, I'm Kartik Agarwal
 
