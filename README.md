@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./minecraft-banner.png" width="100%" alt="Minecraft Coding Banner"/>
+<img src="./minecraft-banner.gif" alt="Minecraft coding banner" width="100%" />
 
 <br>
 
