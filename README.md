@@ -38,4 +38,20 @@
 
 <sub>Building • Learning • Improving</sub>
 
+---
+
+## ☕ Buy Me a Coffee
+
+<div align="center">
+
+<p>If you like my work and want to support it, you can buy me a coffee ☕</p>
+
+<img src="./buy-me-a-coffee.jpeg" alt="Buy me a coffee via UPI" width="280"/>
+
+<br>
+
+<sub>Scan using any UPI app</sub>
+
 </div>
+
+
